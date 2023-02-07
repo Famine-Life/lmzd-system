@@ -3,6 +3,7 @@
  - 系统演示地址：http://124.221.88.154/index
  - 可联系微信: xanwidtf
 
+合作方式有两种：一种是购买源码，另一种是购买服务，我收取系统维护费用
 
 ![输入图片说明](https://gitee.com/liantao/lmzd-system/raw/master/img%E5%B0%8F%E9%93%B6%E9%80%9A%20(2).png)
 
