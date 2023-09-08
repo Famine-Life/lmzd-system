@@ -1,6 +1,6 @@
   **出助贷系统，有意联系：xanwidtf@foxmail.com** 
 
- - 系统演示地址：http://sms.piaomiao.vip/index
+ - 系统演示地址：http://ys.piaomiao.vip/index
  - 可联系微信: xanwidtf
 
  **合作方式有两种：** 
