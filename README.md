@@ -1,13 +1,17 @@
   **出助贷系统，有意联系：xanwidtf@foxmail.com** 
 
- - 系统演示地址：http://ys.piaomiao.vip/index
+ - 系统演示地址： http://124.221.88.154/index
  - 可联系微信: xanwidtf
 
- **合作方式有两种：** 
+ - 最新套-现版已经开始上市
+
+ **合作方式有：** 
 
     1. 购买源码。
 
-    2. 我代为搭建，收点搭建费，不提供源码，不提供二开，其中系统的短信接口、二要素接口、风控接口由我这边提供，价格公道。
+    2. 我代为搭建，不提供源码，不提供二开，其中系统的短信接口、二要素接口、风控接口由我这边提供。
+
+    3. 2024年准备换工作，有需要的老板联系。
 
 ![输入图片说明](https://gitee.com/liantao/lmzd-system/raw/master/img%E5%B0%8F%E9%93%B6%E9%80%9A%20(2).png)
 
@@ -22,3 +26,5 @@
 ![输入图片说明](https://gitee.com/liantao/lmzd-system/raw/master/img%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF%E5%88%97%E8%A1%A8.png)
 
 ![输入图片说明](https://gitee.com/liantao/lmzd-system/raw/master/imgh5%E6%BC%94%E7%A4%BA.png)
+![image](https://github.com/Famine-Life/lmzd-system/assets/26076994/150e2541-7b69-4d51-a5b3-25aef1e8bbe6)
+
