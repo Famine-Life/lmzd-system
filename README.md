@@ -4,6 +4,7 @@
  - 可联系微信: xanwidtf
 
  - 最新套-现版已经开始上市
+ - 支持全流程，半流程对接
 
  **合作方式有：** 
 
@@ -12,6 +13,9 @@
     2. 搭建使用，你提供服务器。
 
     3. 暂无。
+
+
+![输入图片说明](https://gitee.com/liantao/lmzd-system/raw/master/%E6%96%87%E6%A1%A3.png)
 
 ![输入图片说明](https://gitee.com/liantao/lmzd-system/raw/master/img%E5%B0%8F%E9%93%B6%E9%80%9A%20(2).png)
 
